@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
