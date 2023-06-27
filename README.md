@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+docs: update view-results-in-terminal.md (#66)
