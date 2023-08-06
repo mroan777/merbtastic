@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Bounding Box to OBB conversion (#7572)
