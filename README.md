@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
