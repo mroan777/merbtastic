@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
