@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Explorer Cleanup (#7364)
