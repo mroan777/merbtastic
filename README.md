@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
