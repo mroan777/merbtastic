@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add quantization support to TensorFlow.js converter (#7008)
