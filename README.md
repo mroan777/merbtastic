@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
