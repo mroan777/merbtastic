@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
