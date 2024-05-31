@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix PNNX ubuntu -> linux bug (#7050)
