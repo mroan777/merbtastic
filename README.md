@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+New test for labels and crops (#8861)
