@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add new YOLOv8 OBB model metrics (#7379)
